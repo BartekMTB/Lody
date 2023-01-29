@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/BeataHryniewcka/Ice_Cream",
+  "homepage": "https://bartekmtb.github.io/Lody",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url Ice_Cream"
+    "build": "parcel build src/*.html --public-url Lody"
   },
   "repository": {
     "type": "git",
